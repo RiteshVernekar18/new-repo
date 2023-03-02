@@ -1,2 +1,2 @@
 # new-repo
-mini projects on MSSQL
+mini project on MSSQL
